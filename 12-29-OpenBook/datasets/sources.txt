@@ -1,0 +1,34 @@
+source = 1 & 2
+* Radek's 6.5k dataset. Discussion [here][4] annd [here][5], dataset [here][6].
+source = 3 & 4
+* Radek's 15k + 5.9k. Discussion [here][7] and [here][8], dataset [here][9]
+source = 5 & 6
+* Radek's 6k + 6k. Discussion [here][10] and [here][11], dataset [here][12]
+source = 7
+* Leonid's 1k. Discussion [here][13], dataset [here][14]
+source = 8
+* Gigkpeaeums 3k. Discussion [here][15], dataset [here][16]
+source = 9
+* Anil 3.4k. Discussion [here][17], dataset [here][18]
+source = 10, 11, 12
+* Mgoksu 13k. Discussion [here][19], dataset [here][20]
+
+[4]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/425941
+[5]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/426174
+[6]: https://www.kaggle.com/datasets/radek1/additional-train-data-for-llm-science-exam
+[7]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/432316
+[8]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/431786
+[9]: https://www.kaggle.com/datasets/radek1/15k-high-quality-examples
+[10]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/432607
+[11]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/432621
+[12]: https://www.kaggle.com/datasets/radek1/sci-or-not-sci-hypthesis-testing-pack
+[13]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/424627
+[14]: https://www.kaggle.com/datasets/leonidkulyk/wikipedia-stem-1k
+[15]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/430480
+[16]: https://www.kaggle.com/datasets/mozattt/llm-science-3k-data
+[17]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/430988
+[18]: https://www.kaggle.com/datasets/nlztrk/eduqg-dataset-llm-science-exam-format-34k
+[19]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/432182
+[20]: https://www.kaggle.com/datasets/mgoksu/llm-science-exam-sciq-dataset
+[21]: https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/433168
+[22]: https://www.kaggle.com/datasets/peiyuanliu2001/mmlu-dataset
